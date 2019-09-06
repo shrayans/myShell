@@ -1,0 +1,121 @@
+ramlsls
+cat history.txt
+rajesh
+mahesh
+suresh
+dinesh
+cat history.txt
+clear
+ls | grep "s"
+ls | wc
+cd
+exit
+clear
+ls
+ls | grep a.out
+ls
+ls | grep .cpp
+cat test.cpp | sort | uniq | wc 
+ls
+cat history.txt
+clear
+ls
+ls | grep .cpp
+ls | grep .cpp > file.txt
+ls
+cat file.txt
+ls | grep .cpp > file.txt
+cat file.txt
+ls | sort | grep .h > file.txt
+cat file.txt
+ls
+ls  | sort | grep .h > file1.txt
+cat file1.txt
+CLEAR
+clear
+exit
+su -yash
+su - yash
+ ls 
+     ls
+ls
+alias sh = " file.txt "
+cat sh
+alias sh = " file.txt "
+cat sh
+alias sh = " file.txt "
+alias sh = " file.txt "
+alias sh = " file.txt "
+alias sh = " file.txt "
+ls
+ls
+cat myShell.txt
+cat myShell.cpp
+clear
+alias sh = " file.txt "
+alias sh = " file.txt "
+alias sh = " file.txt "
+alias sh = " file.txt "
+alias sh = " ****** "
+clear
+alias sh = " file.txt "
+clear
+alias sh = " file.txt "
+cat file.txt | ram | jay 
+alias sh = " file.txt "
+cat file.yx | ram | ja |kjskj |jd
+ls
+cat file | sjn | ishd | sj
+jsj | sj |
+clear
+ls 
+ls
+ls
+ ls
+alias sh = " file.txt "
+alias sh = " file.txt "
+alias sh = " file.txt "
+cat | hh |dh |jd
+ls
+ls 
+ls
+ls
+alias sh = " file.txt"
+alias sh = " file.txt "
+alias sh = " file.txt "
+alias shp = " ls -l "
+shp
+clear
+ls
+alias sh = " ls -l "
+sh
+alias
+alias ll = " ls -l "
+ll ..
+ll
+alias ll = " ls "
+ls
+ll
+ls
+ls
+alias ll = " ls "
+ll
+ls
+alias ll = " ls -l "
+ll
+ls
+ls
+alias sh = " cat "
+sh history.txt
+cat history.txt
+clear
+ls
+ls
+clear
+ls 
+alias ll = " ls -l "
+ll
+ls
+alias f = " history.txt "
+cat f
+cat f | grep cat
