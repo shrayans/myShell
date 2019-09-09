@@ -119,3 +119,612 @@ ls
 alias f = " history.txt "
 cat f
 cat f | grep cat
+ls
+g++ myShell.cpp
+./a.out
+cd ..
+ls
+g++ Alias_handling.cpp
+./a.out
+clear
+sleep 5
+sleep 5 &
+script file.txt
+script file.txt
+ls
+script file.txt
+ls
+script file.txt
+ls
+ls
+lskd
+skm
+ls
+sk
+script file.txt
+ls
+script file.txt
+ls
+ls -l
+ls
+ls -l
+ls
+echo cool
+ls -l
+clear
+script file.txt
+ls
+ls -l
+ls
+ls -l | sort | uniq > file2.txt
+script file
+ls
+echo cool
+script file
+ls
+ls
+echo cool
+script file.txt
+ls
+ls -l | sort 
+cat myShell.cpp
+ls -l
+script
+script
+ls
+script
+script 
+ls
+ls -l
+ls -l | sort
+ls | sort
+cat myShell.cpp | grep include | sort
+script
+ls 
+ls | sort
+script
+ls
+ls | sort
+script 
+ls
+ls | sort
+ls | sort
+script
+ls | sort
+script
+ls | sort
+script
+ls | sort
+script
+ls | sort
+script 
+ls | sort
+script
+ls 
+ls | sort
+script
+ls | sort
+
+   
+    
+ ls
+          ls
+
+ls
+slslslssls
+                    
+
+script
+ls
+ls -l | sort
+cat >> default_file.txt
+
+cat myShell.cpp >> default_file.txt
+cat myShell.cpp > default_fiel.txt
+ls -l | sort > default_file.txt
+clear
+ls
+pwd > default_file.txt
+ls > default_file.txt
+clear
+exit
+cat > filetest.txt
+
+ls
+kdj
+exit
+hjh
+ls
+ls -l
+open myShell.cpp
+open file.txt
+open myShell.txt
+ls
+open myShell.cpp
+open history.txt
+open myShell.cpp
+open myShell.cpp
+open myShell.cpp
+open myShell.cpp
+open history.txt
+open myShell.cpp
+open history.txt
+open history.txt
+ls
+ls
+clear
+ls
+ls
+clear
+open history.txt
+ls
+ls
+ls
+ls
+ls
+ls
+open history.txt
+ls
+ls
+open history.txt
+ls
+clear
+mkdmsd
+ls
+ls
+ls
+ls
+ls -l
+open history.txt
+ls
+ls -l
+ls
+open history.txt
+ls
+ls
+ls
+ls
+ls
+open history.txt
+ls
+ls
+ls
+ls
+ls
+ls
+clear
+ls
+open history.txt
+ls
+ls
+ls
+cs
+js
+sk
+alias ll = " ls -l "
+ll
+ll | sort
+ll | sort | grep cpp
+open history.txt
+open myShell.c
+cd /.
+ls
+cd ..
+cd /.
+ls
+ls
+ll
+cd /
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+ls
+open history.txt
+ls
+cd ..
+
+ls
+cd ..
+                  
+                                     ls
+                 
+       
+        
+    
+                     
+clear
+cd ..
+alias grepe = " grep --color=auto "
+ls
+ls -l
+ls | grepe cpp
+alias la = " ls -l "
+la
+alias grepe = " grep --color=auto "
+grep
+grep
+ls | grep out
+alias g = "sort"
+g
+alias g = " sort "
+g
+clear
+grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+grepe
+alias grepe = " grep --color=auto "
+ls -l | grepe cpp
+alias grepe = " grep --color=auto "
+ls -l | grepe
+alias grepe = " grep --color=auto "
+grepe
+alias grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+alias grepe = " grep --color=auto "
+grepe
+
+
+alias grepe = " grep --color=auto "
+grepe
+ls -l | grepe
+ls -l | grepe out
+clear
+cd 
+exit
+record start file1.txt
+ls
+ls -l
+record start 
+ls -l
+top
+cd ~
+cd ..
+cd ../..
+record start file1.txt
+ls
+ls -l
+record start file.txt
+ls
+ls -l
+top
+top
+top
+
+ld
+ls
+top
+record start file.txt
+top
+ls
+record start file.txt
+top
+
+ls
+top
+ls
+cd ..
+record start
+ls
+ls -l
+ls -l
+ls -l
+record start 
+ls
+ls
+top
+q
+ls
+ls -l
+q
+ls -l
+q
+q
+q
+record start
+ls
+ls -l
+ps
+top 
+ls 
+ps
+ls -l
+record start 
+ls
+top 
+ls -l
+record start
+ls
+record stop
+ls
+ps
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+sls
+sls
+ls
+sk
+sks
+clear
+ls
+ls
+cls
+smnjask
+sdnk
+njsnd
+jsk
+ks
+ddk
+history
+ls 
+ls
+ls
+mlsdl
+sdoska
+sldml
+mlsamd
+msldm
+history
+history
+ls
+yeah
+history
+ls
+ll
+gc
+ls
+ll
+ls
+ll
+clear
+yeah
+ll
+ls
+history
+ls
+lq
+l[
+lp
+ls
+ls
+ll
+ls
+[
+ls
+vh
+jbjb
+kjbkj
+jbj
+jbj
+jbj
+jb
+mm nm
+hjvhvv
+jjb
+jhvhj
+ n n 
+hhvh
+which vlc
+exit
+history
+ls
+history
+ls
+ls -l
+history
+echo ls
+echo mkmsdkmcas
+echo $$
+record start
+ls
+ll
+
+
+
+
+
+exit
+
+
+
+
+
+
+
+
+record start
+ll
+record start
+ls -l
+ll
+ljj
+ll
+
+ll
+
+
+
+ls
+record start
+ll
+ll
+ll
+ls
+ls
+ll
+lp
+msk
+ls
+ls -l
+pp
+ls
+ll
+ll
+ls
+ll
+lp
+ko
+ls
+ls | sort
+ls
+ll
+lp
+uihih
+maldsm
+s,dl
+ds
+s
+ls
+ll
+dksd
+sd
+lp
+l
+ls
+echo $ram
+ls
+echo $$
+echo $?
+ls
+ls
+echo $$
+proc
+ps
+ls 
+echo $$
+echo $?
+echo $PATH
+echo $EDITOR
+echo $EDITOR
+echo $$
+echo $HOME
+echo $HISTSIZE
+echo $EDITOR
+echo $HOME
+ls
+llp
+llp
+lskd
+sksjd
+skkso
+sasko
+saskk
+sls
+sls
+sls
+sls
+sls
+lcld
+slsld
+dldls
+clear
+ls
+ll
+ji
+kmmk
+,oll
+l,l
+ooko
+l,,l
+lnnj
+kkmk
+ll
+ommo
+mkk
+uuyb
+jnjk
+hhbjbhhj
+jjnjkb
+jjn
+jjk
+ls
+ls
+ll
+lsl
+lsls
+cks
+mksc
+lsc
+iiu
+njknjk
+jjkb
+ jkbj
+iuuiui\
+nm
+kk
+ls
+ook
+k
+ls l
+kmksm
+ls
+ls
+
+sksk
+ksks
+ls
+ls
+ls
+ls
+ls
+csc
+cs
+sckmd
+scac
+echo $$
+echo $?
+ls
+ls -l
+ls
+ls
+ll
+ls
+ll
+ls
+ll
+echo $?
+ls
+ll
+lp
+ls
+echo $PATH
+export PATH la
+echo $PATH
+ls
+ps ~
+cd ~
+cd /
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+cd ..
+ls
+ls
+ls
+ls
+ls -l | sort | grep cpp > file1.txt
+ls -l | sort | grep > file1.txt
+ls -l | sort | grep cpp > file1.txt
+ls -l | sort | grep cpp >> file1.txt
+alias s = " sort "
+ls -l | s | grep cpp >> file1.txt
+ls -l | s | grep cpp >> file1.txt
+ls -l | sort | grep cpp >> file1.txt

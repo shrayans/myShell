@@ -64,7 +64,7 @@ void check_for_alias(char * command)
 		*temp++;
 	}
 
-	cout<<" \nvalue ="<<value;
+	//cout<<" \nvalue ="<<value;
 
 	//char * p =(char *)malloc(value.length() * sizeof(char*) ); 
   	//cout<<"\n" << sizeof(p)<<" "<< value.length();
@@ -75,26 +75,13 @@ void check_for_alias(char * command)
         //cout << p[i]; 
     } 
     //p[i]=NULL;
-    cout<<"\n p = "<<p;
+    //cout<<"\n p = "<<p;
     strcpy(command,p);
     //free(p);
 }
 
-// void init_alias()
-// {
-// 	char * ll="ls -alF";
-// 	char * la="ls -A";
-// 	char * l="ls -CF";
-// 	string temp="ll";
-//     alias_map.insert(pair<string, char *>(temp, "shrayans")); 
-//     alias_map.insert(pair<string, char *>("la", la)); 
-//     alias_map.insert(pair<string, char *>("l", l)); 
-//     // //cout<<"alisas updated \n";
-//     //  for (itr = alias_map.begin(); itr != alias_map.end(); ++itr) { 
-//     //     cout <<"\n" << itr->first <<" "
-//     //           << itr->second << '\n'; 
-//     // } 
-// }
+
+char p[256];
 
 void insert_alias_map(char ** argv)
 {
@@ -109,50 +96,21 @@ void insert_alias_map(char ** argv)
 		*temp++;
 	}
 
-	//cout<<key<<" "<<value;
+	cout<<key<<" \t"<<value;
 
-    char * p =(char *)malloc(value.length() * sizeof(char) ); 
+     
   	//cout<<"\n" << sizeof(p)<<" "<< value.length();
-    for (int i = 0; i < value.length(); i++) { 
+    for (int i = 0; i <= value.size(); i++) { 
         p[i] = value[i]; 
         //cout << p[i]; 
     } 
-    //cout<<" value of p ="<<p;
-    
-	alias_map.insert(pair<string, char *>(key, p) );
+   // cout<<" value of p ="<<p;
+    pair <string, char*> PAIR1 ; 
+  
+    PAIR1.first = key; 
+    PAIR1.second = p ;
+    //cout<<PAIR1.second; 
+	alias_map.insert(PAIR1);
 }
 
 
-// int main()
-// {
-
-// 	for (int i = 0; i < 1; i++)
-// 	{
-// 		char c[100];
-// 		cin.getline(c,100);
-// 		char * argv[50];
-// 		//cout<<c<<" " ;
-
-// 		parseCommand_alias(c,argv);
-// 		//cout<<argv[0]<<" ";
-// 		if(!strcmp(argv[0], "alias"))
-// 		{
-// 			//cout<<"i m in";
-// 			insert_alias_map(argv);
-// 		}
-// 	}
-
-// 	init_alias();
-// 	cout<<"enter command\n";
-// 	char command[100];
-// 	cin.getline(command,100);
-
-// 	//char *argv[50];
-// 	check_for_alias(command);
-
-
-// 	// int i=0;
-// 	// while(argv[i])
-// 	// 	cout<<argv[i++]<<" " ;
-// 	cout<<command<<"\n";
-// }

@@ -1,0 +1,11 @@
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+100
+txt
+gedit
+/usr/bin/gedit
+mp4
+vlc
+/snap/bin/vlc
+mp3
+vlc
+/snap/bin/vlc
