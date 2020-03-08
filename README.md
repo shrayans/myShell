@@ -48,5 +48,3 @@ matching/mapping to your preferred application. Handle its I/O
 and parameter passing on executing.
 a. E.g. MEDIA=[‘vlc’, ‘vlc path’,’.mp4’] in config file.
 So on running - open same.mp4 , it must invoke vlc.
-# !! Mac users be careful for collision of open
-keyword in your shell.
